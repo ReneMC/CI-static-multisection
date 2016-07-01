@@ -16,6 +16,11 @@
 <!-- Bootstrap Core JavaScript -->
 <script src="<?php echo base_url('/assets/js/bootstrap.min.js');?>"></script>
 
+<!-- Contact Form JavaScript -->
+<!-- Do not edit these files! In order to set the email address and subject line for the contact form go to the bin/contact_me.php file. -->
+<script src="<?php echo base_url('/assets/js/jqBootstrapValidation.js'); ?>"></script>
+<script src="<?php echo base_url('/assets/js/contact_me.js'); ?>"></script>
+
 <!-- Script to Activate the Carousel -->
 <script>
     $('.carousel').carousel({
