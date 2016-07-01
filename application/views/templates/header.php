@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Modern Business - Start Bootstrap Template</title>
+    <title> <?php echo $title;?> </title>
 
     <!-- Bootstrap Core CSS -->
     <link href="<?php echo base_url('assets//css/bootstrap.min.css');?>" rel="stylesheet">
