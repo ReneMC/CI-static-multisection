@@ -11,6 +11,8 @@ class Inicio extends Ci_Controller {
          */
         $data['title'] = "Homepage";
         $data['heading'] = "Welcome to Dolly site!";
+        $data['description'] = "My description";
+        $data['keywords'] = "This are keywords";
         
         $this->load->view('templates/header', $data);
         $this->load->view('templates/nav');

@@ -11,6 +11,8 @@ class Services extends Ci_Controller {
          */
         $data['title'] = "Services";
         $data['heading'] = "About";
+        $data['description'] = "My description";
+        $data['keywords'] = "This are keywords";
 
         $this->load->view('templates/header', $data);
         $this->load->view('templates/nav');
