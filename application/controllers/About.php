@@ -11,8 +11,8 @@ class About extends Ci_Controller {
          */
         $data['title'] = "About Us";
         $data['heading'] = "About";
-        $data['description'] = "My description";
-        $data['keywords'] = "This are keywords";
+        $data['description'] = "This is the About section for CI Dolly Site";
+        $data['keywords'] = "About us";
 
         $this->load->view('templates/header', $data);
         $this->load->view('templates/nav');
