@@ -8,7 +8,7 @@
                     <small>Subheading</small>
                 </h1>
                 <ol class="breadcrumb">
-                    <li><a href="inicio">Home</a>
+                    <li><a href="<?php echo base_url(); ?>">Home</a>
                     </li>
                     <li class="active">About</li>
                 </ol>

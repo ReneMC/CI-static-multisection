@@ -93,7 +93,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <a href="" class="fa fa-arrow-left"></a>
 <div class="error">
 	<h1>404</h1>
-	<p>We're sorry but it looks like that page doesn't exist anymore.</p>
-	<button class="srchBtn" onclick="window.location.href='http://local.testing.com/dolly/'">Go home</button>
+	<p><?php echo $heading . $message; ?></p>
+	<button class="srchBtn" onclick="window.location.href='http://dolly.thechickenchaser.com/'">Go home</button>
 </div>
 
