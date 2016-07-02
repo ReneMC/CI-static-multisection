@@ -2,7 +2,7 @@
 <footer>
     <div class="row">
         <div class="col-lg-12">
-            <p>Page rendered in <strong>{elapsed_time}</strong> seconds.</p>
+            <p>Page rendered in <strong>{elapsed_time}</strong> seconds. Check for <a href="https://github.com/ReneMC/CI-static-multisection">GitHub repository</a> </p>
         </div>
     </div>
 </footer>
