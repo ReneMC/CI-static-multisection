@@ -19,7 +19,7 @@
         <!-- Image Header -->
         <div class="row">
             <div class="col-lg-12">
-                <img class="img-responsive" src="http://lorempixel.com/1200/300/" alt="">
+                <img class="img-responsive" src="https://unsplash.it/1200/300/" alt="">
             </div>
         </div>
         <!-- /.row -->

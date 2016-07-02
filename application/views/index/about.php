@@ -19,7 +19,7 @@
         <!-- Intro Content -->
         <div class="row">
             <div class="col-md-6">
-                <img class="img-responsive" src="http://lorempixel.com/750/450" alt="">
+                <img class="img-responsive" src="https://unsplash.it/750/450" alt="">
             </div>
             <div class="col-md-6">
                 <h2>About Modern Business</h2>
@@ -37,7 +37,7 @@
             </div>
             <div class="col-md-4 text-center">
                 <div class="thumbnail">
-                    <img class="img-responsive" src="http://lorempixel.com/750/450" alt="">
+                    <img class="img-responsive" src="https://unsplash.it/750/450?random" alt="">
                     <div class="caption">
                         <h3>John Smith<br>
                             <small>Job Title</small>
@@ -56,7 +56,7 @@
             </div>
             <div class="col-md-4 text-center">
                 <div class="thumbnail">
-                    <img class="img-responsive" src="http://lorempixel.com/750/450" alt="">
+                    <img class="img-responsive" src="https://unsplash.it/750/450?random" alt="">
                     <div class="caption">
                         <h3>John Smith<br>
                             <small>Job Title</small>
@@ -75,7 +75,7 @@
             </div>
             <div class="col-md-4 text-center">
                 <div class="thumbnail">
-                    <img class="img-responsive" src="http://lorempixel.com/750/450" alt="">
+                    <img class="img-responsive" src="https://unsplash.it/750/450?random" alt="">
                     <div class="caption">
                         <h3>John Smith<br>
                             <small>Job Title</small>
@@ -94,7 +94,7 @@
             </div>
             <div class="col-md-4 text-center">
                 <div class="thumbnail">
-                    <img class="img-responsive" src="http://lorempixel.com/750/450" alt="">
+                    <img class="img-responsive" src="https://unsplash.it/750/450?random" alt="">
                     <div class="caption">
                         <h3>John Smith<br>
                             <small>Job Title</small>
@@ -113,7 +113,7 @@
             </div>
             <div class="col-md-4 text-center">
                 <div class="thumbnail">
-                    <img class="img-responsive" src="http://lorempixel.com/750/450" alt="">
+                    <img class="img-responsive" src="https://unsplash.it/750/450?random" alt="">
                     <div class="caption">
                         <h3>John Smith<br>
                             <small>Job Title</small>
@@ -132,7 +132,7 @@
             </div>
             <div class="col-md-4 text-center">
                 <div class="thumbnail">
-                    <img class="img-responsive" src="http://lorempixel.com/750/450" alt="">
+                    <img class="img-responsive" src="https://unsplash.it/750/450?random" alt="">
                     <div class="caption">
                         <h3>John Smith<br>
                             <small>Job Title</small>
@@ -158,22 +158,22 @@
                 <h2 class="page-header">Our Customers</h2>
             </div>
             <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive customer-img" src="http://lorempixel.com/500/300" alt="">
+                <img class="img-responsive customer-img" src="https://unsplash.it/500/300" alt="">
             </div>
             <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive customer-img" src="http://lorempixel.com/500/300" alt="">
+                <img class="img-responsive customer-img" src="https://unsplash.it/500/300" alt="">
             </div>
             <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive customer-img" src="http://lorempixel.com/500/300" alt="">
+                <img class="img-responsive customer-img" src="https://unsplash.it/500/300" alt="">
             </div>
             <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive customer-img" src="http://lorempixel.com/500/300" alt="">
+                <img class="img-responsive customer-img" src="https://unsplash.it/500/300" alt="">
             </div>
             <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive customer-img" src="http://lorempixel.com/500/300" alt="">
+                <img class="img-responsive customer-img" src="https://unsplash.it/500/300" alt="">
             </div>
             <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive customer-img" src="http://lorempixel.com/500/300" alt="">
+                <img class="img-responsive customer-img" src="https://unsplash.it/500/300" alt="">
             </div>
         </div>
         <!-- /.row -->

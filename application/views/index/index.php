@@ -10,19 +10,19 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
             <div class="item active">
-                <div class="fill" style="background-image:url('http://lorempixel.com/1900/1080');"></div>
+                <div class="fill" style="background-image:url('https://unsplash.it/1900/1080?image=0');"></div>
                 <div class="carousel-caption">
                     <h2>Caption 1</h2>
                 </div>
             </div>
             <div class="item">
-                <div class="fill" style="background-image:url('http://lorempixel.com/1900/1080');"></div>
+                <div class="fill" style="background-image:url('https://unsplash.it/1900/1080?image=1');"></div>
                 <div class="carousel-caption">
                     <h2>Caption 2</h2>
                 </div>
             </div>
             <div class="item">
-                <div class="fill" style="background-image:url('http://lorempixel.com/1900/1080');"></div>
+                <div class="fill" style="background-image:url('https://unsplash.it/1900/1080?image=2');"></div>
                 <div class="carousel-caption">
                     <h2>Caption 3</h2>
                 </div>
@@ -91,32 +91,32 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <a href="portfolio-item.html">
-                    <img class="img-responsive img-portfolio img-hover" src="http://lorempixel.com/700/450" alt="">
+                    <img class="img-responsive img-portfolio img-hover" src="https://unsplash.it/700/450?image=15" alt="">
                 </a>
             </div>
             <div class="col-md-4 col-sm-6">
                 <a href="portfolio-item.html">
-                    <img class="img-responsive img-portfolio img-hover" src="http://lorempixel.com/700/450" alt="">
+                    <img class="img-responsive img-portfolio img-hover" src="https://unsplash.it/700/450?image=16" alt="">
                 </a>
             </div>
             <div class="col-md-4 col-sm-6">
                 <a href="portfolio-item.html">
-                    <img class="img-responsive img-portfolio img-hover" src="http://lorempixel.com/700/450" alt="">
+                    <img class="img-responsive img-portfolio img-hover" src="https://unsplash.it/700/450?image=17" alt="">
                 </a>
             </div>
             <div class="col-md-4 col-sm-6">
                 <a href="portfolio-item.html">
-                    <img class="img-responsive img-portfolio img-hover" src="http://lorempixel.com/700/450" alt="">
+                    <img class="img-responsive img-portfolio img-hover" src="https://unsplash.it/700/450?image=18" alt="">
                 </a>
             </div>
             <div class="col-md-4 col-sm-6">
                 <a href="portfolio-item.html">
-                    <img class="img-responsive img-portfolio img-hover" src="http://lorempixel.com/700/450" alt="">
+                    <img class="img-responsive img-portfolio img-hover" src="https://unsplash.it/700/450?image=19" alt="">
                 </a>
             </div>
             <div class="col-md-4 col-sm-6">
                 <a href="portfolio-item.html">
-                    <img class="img-responsive img-portfolio img-hover" src="http://lorempixel.com/700/450" alt="">
+                    <img class="img-responsive img-portfolio img-hover" src="https://unsplash.it/700/450?image=20" alt="">
                 </a>
             </div>
         </div>
