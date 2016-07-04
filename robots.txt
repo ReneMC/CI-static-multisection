@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: http://dolly.thechickenchaser.com/sitemap.xml
