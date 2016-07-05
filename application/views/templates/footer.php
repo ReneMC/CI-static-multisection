@@ -2,7 +2,7 @@
 <footer>
     <div class="row">
         <div class="col-lg-12">
-            <p>This page has been rendered in <strong>{elapsed_time}</strong> seconds. Check for <a href="https://github.com/ReneMC/CI-static-multisection">GitHub repository</a> </p>
+            <p>This page has been rendered in <strong>{elapsed_time}</strong> seconds. Check for <a target="_blank" href="https://github.com/ReneMC/CI-static-multisection">GitHub repository</a> </p>
         </div>
     </div>
 </footer>
@@ -18,8 +18,8 @@
 
 <!-- Contact Form JavaScript -->
 <!-- Do not edit these files! In order to set the email address and subject line for the contact form go to the bin/contact_me.php file. -->
-<script src="<?php echo base_url('/assets/js/jqBootstrapValidation.js'); ?>"></script>
-<script src="<?php echo base_url('/assets/js/contact_me.js'); ?>"></script>
+<!--<script src="--><?php //echo base_url('/assets/js/jqBootstrapValidation.js'); ?><!--"></script>-->
+<!--<script src="--><?php //echo base_url('/assets/js/contact_me.js'); ?><!--"></script>-->
 
 <!-- Script to Activate the Carousel -->
 <script>
