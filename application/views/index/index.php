@@ -90,32 +90,32 @@
             <h2 class="page-header">Portfolio Heading</h2>
         </div>
         <div class="col-md-4 col-sm-6">
-            <a href="portfolio-item.html">
+            <a href="<?php echo base_url('portfolio'); ?>">
                 <img class="img-responsive img-portfolio img-hover" src="https://unsplash.it/700/450?image=15" alt="">
             </a>
         </div>
         <div class="col-md-4 col-sm-6">
-            <a href="portfolio-item.html">
+            <a href="<?php echo base_url('portfolio'); ?>">
                 <img class="img-responsive img-portfolio img-hover" src="https://unsplash.it/700/450?image=16" alt="">
             </a>
         </div>
         <div class="col-md-4 col-sm-6">
-            <a href="portfolio-item.html">
+            <a href="<?php echo base_url('portfolio'); ?>">
                 <img class="img-responsive img-portfolio img-hover" src="https://unsplash.it/700/450?image=17" alt="">
             </a>
         </div>
         <div class="col-md-4 col-sm-6">
-            <a href="portfolio-item.html">
+            <a href="<?php echo base_url('portfolio'); ?>">
                 <img class="img-responsive img-portfolio img-hover" src="https://unsplash.it/700/450?image=18" alt="">
             </a>
         </div>
         <div class="col-md-4 col-sm-6">
-            <a href="portfolio-item.html">
+            <a href="<?php echo base_url('portfolio'); ?>">
                 <img class="img-responsive img-portfolio img-hover" src="https://unsplash.it/700/450?image=19" alt="">
             </a>
         </div>
         <div class="col-md-4 col-sm-6">
-            <a href="portfolio-item.html">
+            <a href="<?php echo base_url('portfolio'); ?>">
                 <img class="img-responsive img-portfolio img-hover" src="https://unsplash.it/700/450?image=20" alt="">
             </a>
         </div>
