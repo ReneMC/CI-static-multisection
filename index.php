@@ -53,7 +53,7 @@
  *
  * NOTE: If you change these, also change the error_reporting() code below
  */
-	define('ENVIRONMENT', isset($_SERVER['CI_ENV']) ? $_SERVER['CI_ENV'] : 'development');
+	define('ENVIRONMENT', isset($_SERVER['CI_ENV']) ? $_SERVER['CI_ENV'] : 'production');
 
 /*
  *---------------------------------------------------------------
@@ -313,3 +313,31 @@ switch (ENVIRONMENT)
  * And away we go...
  */
 require_once BASEPATH.'core/CodeIgniter.php';
+
+/*
+ |---------------------------------------------------------------
+ | DEFAULT TIMEZONE
+ |---------------------------------------------------------------
+ |
+ | Set the default timezone for date/time functions to use if
+ | none is set on the server.
+ |
+ */
+
+if( ! ini_get('date.timezone') )
+{
+	date_default_timezone_set('GMT-7');
+}
+
+/*
+ |---------------------------------------------------------------
+ | PHP ERROR REPORTING LEVEL
+ |---------------------------------------------------------------
+ |
+ | By default CI runs with error reporting set to ALL. For security
+ | reasons you are encouraged to change this when your site goes live.
+ | For more info visit: http://www.php.net/error_reporting
+ |
+ */
+
+error_reporting(E_ALL & ~E_DEPRECATED);

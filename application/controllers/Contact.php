@@ -51,9 +51,17 @@ class Contact extends Ci_Controller {
             $this->load->library('email');
 
             $this->email->from(set_value("email"), set_value("name"));
-            $this->email->to('rene.mejiac@gmail.com');
-            $this->email->subject('Email Test');
-            $this->email->message(set_value("message"));
+            $this->email->to('rene.mejiac@gmail.com', "Web Admin");
+            $this->email->subject('A new message from your website');
+
+            $this->email->message(
+                "Hello,\n\n
+            You just received a message from your website with the following data:\n\n
+            Name: " . set_value('name') . "\n
+            Email: " . set_value('email') . "\n
+            Phone: " . set_value('phone') . "\n
+            Message: " . set_value('message') . "\n"
+            );
 
             $this->email->send();
 
