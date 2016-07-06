@@ -37,7 +37,7 @@ class Contact extends Ci_Controller {
         $this->form_validation->set_rules("name", "<strong>Name</strong>", "required|alpha_numeric_spaces");
         $this->form_validation->set_rules("phone", "<strong>Phone Number</strong>", "required|numeric");
         $this->form_validation->set_rules("email", "<strong>Email Address</strong>", "required|valid_email");
-        $this->form_validation->set_rules("message", "<strong>Message</strong>", "required|required|alpha_numeric_spaces");
+        $this->form_validation->set_rules("message", "<strong>Message</strong>", "required|required");
 
         if($this->form_validation->run() == FALSE){
 
