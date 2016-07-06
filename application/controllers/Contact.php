@@ -54,13 +54,7 @@ class Contact extends Ci_Controller {
             $this->email->to('rene.mejiac@gmail.com', "Web Admin");
             $this->email->subject('A new message from your website');
 
-            $this->email->message("Hello,\n\n
-            You just received a new message from your website with the following data:\n\n
-            Name: " . set_value('name') . "\n
-            Email: " . set_value('email') . "\n
-            Message: " . set_value('message') . "\n\n
-            Remember that you can reply directly to the sender from this email.\n
-            Have a nice day!");
+            $this->email->message("Hello,\nYou just received a new message from your website with the following data:\n\nName: " . set_value('name') . "\nEmail: " . set_value('email') . "\nMessage: " . set_value('message') . "\n\nRemember that you can reply directly to the sender from this email.\nHave a nice day!");
 
             $this->email->send();
 
